@@ -1,7 +1,6 @@
-# Kultra-Mega-Stores-Inventory-
+# KMS Sales Performance Analysis 
 KMS Sales Performance Analysis: A SQL-centric project focused on dimensional modeling and data analysis using historical sales data to uncover business insights. 
 
-# KMS Sales Performance Analysis 
 
 ## 1. Project Overview & Business Problem
 
